@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "native_cli",
+    "slug": "native_cli",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
